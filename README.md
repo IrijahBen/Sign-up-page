@@ -6,7 +6,7 @@ This project is a visual representation of a sign-up page user interface. It sho
 
 ## Image Preview
 
-![sign up page](https://github.com/user-attachments/assets/8db0462d-0d7b-4922-8912-7581dd5d92f7)
+[![sign up page](https://github.com/user-attachments/assets/8db0462d-0d7b-4922-8912-7581dd5d92f7)](https://github.com/IrijahBen/Sign-up-page/blob/main/Login%20and%20sign%20up%20page/sign%20up%20page.png)
 
 
 ## Features Visible in the Design
